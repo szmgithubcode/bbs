@@ -14,3 +14,5 @@ SQLALCHEMY_TRACK_MODIFICATIONS = True
 DEBUG = True
 
 SECRET_KEY = os.urandom(24)
+
+print("test")
