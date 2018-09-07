@@ -1,4 +1,5 @@
 #encoding: utf-8
+#author="szm"
 import os
 
 HOSTNAME = '127.0.0.1'
